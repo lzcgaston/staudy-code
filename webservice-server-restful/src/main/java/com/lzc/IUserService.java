@@ -42,7 +42,7 @@ public interface IUserService {
     @Path("/user/{id}")
     @Consumes("application/xml")
     @Produces({"application/xml","application/json"})
-    public List<User> findUserById(@PathParam("id") Integer id);
+    public User findUserById(@PathParam("id") Integer id);
 
     //处理请求的类型. delete对应delete删除操作
     @DELETE
