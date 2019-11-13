@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/webswrvice-server-spring" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring/pom.xml" />
+        <option value="$PROJECT_DIR$/webservice/pom.xml" />
+        <option value="$PROJECT_DIR$/webserviceclient/pom.xml" />
+        <option value="$PROJECT_DIR$/webswrviceserverspring/pom.xml" />
+        <option value="$PROJECT_DIR$/webswrvice-server-spring/pom.xml" />
+        <option value="$PROJECT_DIR$/webservice-client-spring/pom.xml" />
+        <option value="$PROJECT_DIR$/webservice-server-restful/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

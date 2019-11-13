@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="webswrvice-server-spring" />
+        <module name="spring" />
+        <module name="webservice-client" />
+        <module name="webservice-server-restful" />
+        <module name="webservice-client-spring" />
+      </profile>
+      <profile name="Annotation profile for webservice" enabled="true">
+        <sourceOutputDir name="../webservice/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../webservice/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="webservice-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring" target="1.8" />
+      <module name="webservice-client" target="1.8" />
+      <module name="webservice-client-spring" target="1.8" />
+      <module name="webservice-server" target="1.8" />
+      <module name="webservice-server-restful" target="1.8" />
+      <module name="webswrvice-server-spring" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

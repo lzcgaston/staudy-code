@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="webswrviceserverspring:war">
+    <output-path>$PROJECT_DIR$/webswrviceserverspring/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>webswrviceserverspring</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="webswrvice-server-spring.war">
+      <element id="artifact" artifact-name="webswrviceserverspring:war exploded" />
+    </root>
+  </artifact>
+</component>

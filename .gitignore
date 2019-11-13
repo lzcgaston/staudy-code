@@ -1,0 +1,5 @@
+# Project exclude paths
+/webservice-client/target/
+/webservice-client-spring/target/
+/webservice-server/target/
+/webswrvice-server-spring/target/
