@@ -1,6 +1,5 @@
 package com.lzc.service;
 
-import com.lzc.IUserService;
 import com.lzc.entity.Car;
 import com.lzc.entity.User;
 

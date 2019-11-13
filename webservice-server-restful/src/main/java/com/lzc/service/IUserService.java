@@ -1,4 +1,4 @@
-package com.lzc;
+package com.lzc.service;
 
 import com.lzc.entity.User;
 
