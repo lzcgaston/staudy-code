@@ -14,6 +14,8 @@
         <option value="$PROJECT_DIR$/webservice-client-spring/pom.xml" />
         <option value="$PROJECT_DIR$/webservice-server-restful/pom.xml" />
         <option value="$PROJECT_DIR$/webservice-client-restful/pom.xml" />
+        <option value="$PROJECT_DIR$/webservice-server-restful-spring/pom.xml" />
+        <option value="$PROJECT_DIR$/webservice-client-restful-spring/pom.xml" />
       </list>
     </option>
   </component>

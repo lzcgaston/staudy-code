@@ -5,9 +5,11 @@
       <module fileurl="file://$PROJECT_DIR$/spring/spring.iml" filepath="$PROJECT_DIR$/spring/spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/webservice-client/webservice-client.iml" filepath="$PROJECT_DIR$/webservice-client/webservice-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/webservice-client-restful/webservice-client-restful.iml" filepath="$PROJECT_DIR$/webservice-client-restful/webservice-client-restful.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webservice-client-restful-spring/webservice-client-restful-spring.iml" filepath="$PROJECT_DIR$/webservice-client-restful-spring/webservice-client-restful-spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/webservice-client-spring/webservice-client-spring.iml" filepath="$PROJECT_DIR$/webservice-client-spring/webservice-client-spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/webservice-server/webservice-server.iml" filepath="$PROJECT_DIR$/webservice-server/webservice-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/webservice-server-restful/webservice-server-restful.iml" filepath="$PROJECT_DIR$/webservice-server-restful/webservice-server-restful.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webservice-server-restful-spring/webservice-server-restful-spring.iml" filepath="$PROJECT_DIR$/webservice-server-restful-spring/webservice-server-restful-spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/webswrvice-server-spring/webswrvice-server-spring.iml" filepath="$PROJECT_DIR$/webswrvice-server-spring/webswrvice-server-spring.iml" />
     </modules>
   </component>
