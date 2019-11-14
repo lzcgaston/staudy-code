@@ -32,10 +32,6 @@ public class User {
 
     private List<Car> cars = new ArrayList<Car>();
 
-    public Integer getId() {
-        return id;
-    }
-
     public User() {
     }
 
@@ -54,6 +50,10 @@ public class User {
                 ", city='" + city + '\'' +
                 ", cars=" + cars +
                 '}';
+    }
+
+    public Integer getId() {
+        return id;
     }
 
     public void setId(Integer id) {

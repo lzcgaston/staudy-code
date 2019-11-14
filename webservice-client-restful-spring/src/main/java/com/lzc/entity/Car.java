@@ -18,6 +18,15 @@ public class Car {
     private String carName;
     private Double price;
 
+    @Override
+    public String toString() {
+        return "Car{" +
+                "id=" + id +
+                ", carName='" + carName + '\'' +
+                ", price=" + price +
+                '}';
+    }
+
     public Integer getId() {
         return id;
     }
@@ -28,15 +37,6 @@ public class Car {
 
     public String getCarName() {
         return carName;
-    }
-
-    @Override
-    public String toString() {
-        return "Car{" +
-                "id=" + id +
-                ", carName='" + carName + '\'' +
-                ", price=" + price +
-                '}';
     }
 
     public void setCarName(String carName) {

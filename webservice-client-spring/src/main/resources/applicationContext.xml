@@ -20,7 +20,7 @@
     <jaxws:client
             id="helloService"
             serviceClass="com.lzc.service.HelloService"
-            address="http://localhost:8080/ws/hello">
+            address="http://localhost:8081/ws/hello">
 
     </jaxws:client>
 </beans>

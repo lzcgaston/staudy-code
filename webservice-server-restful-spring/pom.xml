@@ -7,6 +7,7 @@
     <groupId>com.lzc</groupId>
     <artifactId>webservice-server-restful-spring</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>war</packaging>
     <dependencies>
         <!--cxf进行rs开发必须导入-->
         <dependency>
@@ -58,7 +59,7 @@
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
-            <version>1.18.10</version>
+            <version>1.16.18</version>
         </dependency>
     </dependencies>
 
@@ -70,7 +71,7 @@
                 <version>2.2</version>
                 <!--控制tomcat端口号 -->
                 <configuration>
-                    <port>8080</port>
+                    <port>8081</port>
                     <!-- 发布到tomcat后的名称 -->
                     <!--/ 相当于把项目发布成ROOT -->
                     <path>/</path>

@@ -30,9 +30,9 @@ public interface IUserService {
     public void updateUser(User user);
 
     //处理请求的类型. get对应select查询操作
-    @GET
+//    @GET
     //同上@Path("/userService") /userService/user
-    @Path("/user")
+    @Path("/user/123")
     //服务器支持的返回数据类型
     @Produces({"application/xml","application/json"})
     public List<User> findAllUser();
